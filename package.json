@@ -1,0 +1,18 @@
+{
+  "name": "country-flag-code",
+  "version": "1.0.0",
+  "description": "A package that transforms a country code into a flag",
+  "scripts": {
+    "build": "tsup index.ts --format cjs,esm --dts",
+    "lint": "tsc"
+  },
+  "author": {
+    "name": "Mbaye Jacques DIOP",
+    "email": "diopmbayejacques9@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^7.1.0",
+    "typescript": "^5.1.6"
+  }
+}
