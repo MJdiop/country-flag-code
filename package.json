@@ -2,6 +2,10 @@
   "name": "country-flag-code",
   "version": "1.0.0",
   "description": "A package that transforms a country code into a flag",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MJdiop/country-flag-code.git"
+  },
   "scripts": {
     "build": "tsup index.ts --format cjs,esm --dts",
     "lint": "tsc"
