@@ -6,6 +6,16 @@
     "type": "git",
     "url": "https://github.com/MJdiop/country-flag-code.git"
   },
+  "keywords": [
+    "country",
+    "code",
+    "country code",
+    "flag",
+    "drapeau",
+    "typescript",
+    "javascript",
+    "javascript country code"
+  ],
   "scripts": {
     "build": "tsup index.ts --format cjs,esm --dts",
     "lint": "tsc"
